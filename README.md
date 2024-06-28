@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Introducing Project Laravel 11 Product Management
+
+- Target
+This project is designed to demonstrate how to use Laravel 11 to build a simple product management application, including basic functions such as adding, deleting, editing, and viewing products.
+
+- Technology Used
+Laravel 11: A powerful and popular PHP framework for web application development.
+MySQL: Relational database management system for storing product information.
+Bootstrap: CSS library for creating user interfaces.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
